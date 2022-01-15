@@ -1,3 +1,3 @@
 # Financial_Data_Analysis
 
-Models created through the power of financial engineering. Models include Financial Analysis, Time Series Analysis, Portfolio Optimization, CAPM, Algorithmic Trading.
+Analysis and models of time series financial data. Will include explanatory statistical analysis, portfolio optimization, CAPM, and eventually algorithmic trading.
